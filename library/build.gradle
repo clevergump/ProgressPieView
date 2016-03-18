@@ -16,5 +16,3 @@ android {
 dependencies {
     compile 'com.android.support:support-v4:21.0.2'
 }
-
-apply from: '../maven_push.gradle'

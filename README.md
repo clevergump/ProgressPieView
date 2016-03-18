@@ -1,6 +1,8 @@
 ProgressPieView
 ===============
 
+Forked from <a href="https://github.com/FilipPudak/ProgressPieView" target="_blank">FilipPudak/ProgressPieView</a> and comment out the file ./maven_push.gradle.
+
 Android library for showing progress in a highly customizable pie.
 
 ![ProgressPieView](/sample/images/progresspieview.png)

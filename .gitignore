@@ -1,9 +1,11 @@
+/sample/build
 .metadata/
 
 # built application files
 *.apk
 *.ap_
 
+/library/build
 # files for the dex VM
 *.dex
 
